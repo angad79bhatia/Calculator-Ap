@@ -1,3 +1,3 @@
-# Calculator-Ap
+# Calculator-App
 helps in making calculations
 
