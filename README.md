@@ -1,2 +1,3 @@
 # Calculator-Ap
-helps in making calculations and 
+helps in making calculations
+
